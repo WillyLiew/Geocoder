@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myGeocoder</string>
+    <string name="buttonString">Search</string>
+    <string name="editTextString">Enter Location Name</string>
+</resources>
